@@ -29,6 +29,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@supabase/auth-helpers-sveltekit": "^0.8.7",
+		"@supabase/supabase-js": "^2.6.0",
 		"@sveltejs/adapter-vercel": "^1.0.6",
 		"daisyui": "^2.49.0"
 	}
