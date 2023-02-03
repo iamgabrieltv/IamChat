@@ -19,7 +19,7 @@
 			</label>
 		</div>
 		<div class="navbar-center">
-			<a class="normal-case text-xl">GS Chat</a>
+			<a class="normal-case text-xl">IamChat</a>
 		</div>
 		<div class="navbar-end">
 			<button class="btn btn-square btn-ghost">
