@@ -1,22 +1,10 @@
-# create-svelte
+# IamChat
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+A chat app using SvelteKit, Tailwind CSS and DaisyUI for the Frontend and Firebase as a backend
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`) and configured the [firebase.ts](https://github.com/iamgabrieltv/IamChat/blob/master/src/lib/firebase.ts) file, start a development server:
 
 ```bash
 npm run dev
