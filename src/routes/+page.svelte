@@ -1,6 +1,6 @@
 <script>
-	import Auth from "$lib/Auth.svelte";
-	import user from '$lib/Auth.svelte'
+	import Auth from '$lib/Auth.svelte';
+	import user from '$lib/Auth.svelte';
 </script>
 
 {#if user}
