@@ -2,7 +2,7 @@
     import { auth, googleProvider, popup } from './firebase';
     import { authState } from 'rxfire/auth';
 
-    let user;
+    export let user;
 
     const unsubscribe = authState(auth).subscribe(u => user = u);
 
