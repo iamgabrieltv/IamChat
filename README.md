@@ -1,7 +1,11 @@
 # IamChat
+
 ## ⚠WORK IN PROGRESS⚠
-App will not build
+
+App will most likely not work
+
 #
+
 A chat app using SvelteKit, Tailwind CSS and DaisyUI for the Frontend and Firebase as a backend
 
 ## Developing

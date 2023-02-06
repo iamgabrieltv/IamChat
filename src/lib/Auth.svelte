@@ -1,8 +1,8 @@
 <script lang="ts">
-	
+	import { signInGoogle } from './firebase';
 </script>
 
-<button on:click={login} class="btn gap-2">
+<button on:click={signInGoogle} class="btn gap-2">
 	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"
 		><path
 			fill="#FFC107"
