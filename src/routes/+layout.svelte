@@ -1,7 +1,7 @@
 <script lang="ts">
 	import '../app.css';
 
-	import Navbar from '$lib/Navbar.svelte';
+	import Navbar from '$lib/components/Navbar.svelte';
 </script>
 
 <div class="drawer drawer-mobile">
@@ -18,7 +18,7 @@
 		<label for="my-drawer-2" class="drawer-overlay" />
 		<ul class="menu p-4 w-80 bg-neutral text-base-content">
 			<!-- Sidebar content here -->
-			<h1 class="text-xl font-bold">DMs</h1>
+			<h1 class="text-xl font-bold">Channels</h1>
 			<li><a>Sidebar Item 1</a></li>
 			<li><a>Sidebar Item 2</a></li>
 		</ul>

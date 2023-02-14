@@ -1,7 +1,7 @@
 <div
 	class="sticky top-0 z-30 flex h-16 w-full justify-center bg-opacity-90 backdrop-blur transition-all duration-100 bg-base-100 text-base-content"
 >
-	<nav class="navbar w-full bg-neutral">
+	<nav class="navbar w-full bg-base-300">
 		<div class="navbar-start">
 			<label for="my-drawer-2" class="btn btn-square btn-ghost drawer-button lg:hidden">
 				<svg
