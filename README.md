@@ -6,7 +6,7 @@ App will most likely not work
 
 #
 
-A chat app using SvelteKit, Tailwind CSS and DaisyUI for the Frontend and Firebase as a backend
+A chat app using SvelteKit, Tailwind CSS and DaisyUI for the Frontend and Supabase as a backend
 
 ## Developing
 
